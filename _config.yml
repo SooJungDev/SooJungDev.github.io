@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
   
-remote_theme : mmistakes/minimal-mistakes
+theme : mmistakes/minimal-mistakes
